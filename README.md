@@ -4,7 +4,7 @@
 I'm a girl who finds inspiration in the most random places —
 a song at 2 AM, a cat walking across my keyboard, or a new idea that I absolutely need to turn into code.
 
-💻 I love technology
+💻 I love technology and computer science
 🎵 I can't live without music
 🐈‍⬛ Cats have my heart
 🌱 Always learning something new
